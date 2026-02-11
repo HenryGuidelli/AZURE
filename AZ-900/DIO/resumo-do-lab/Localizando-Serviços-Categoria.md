@@ -10,12 +10,14 @@
 A Azure oferece diversos serviços para as necessidades de seus clientes, por conta disso são separados em diversas categorias como:
 - Computação;
 - Rede;
-- Armazenamento;
+- Armazenamento.
+
 Em cada categoria também há uma subdivisão, como por exemplo em **Computação** que possui:
 - IaaS;
 - PaaS;
 - Sem Servidor e Microsserviços;
 - Etc.
+
 Onde cada subdivisão há seus respectivos 'itens', como em IasS há:
 - Chaves SSH;
 - Definições de Imagens de VM;
